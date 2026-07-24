@@ -11,9 +11,8 @@ unit at the same instant, exactly one succeeds.
 
 ## Live Demo
 
-- **Live URL:** _add after deploying (see Deployment below)_
-- **Demo video:** _add a 3–5 min screen recording, ideally two windows side by
-  side showing mirroring, live inventory updates, and atomic booking_
+- **Live URL:** https://convrse-sales-kiosk.vercel.app/inventory
+
 
 ## Tech Stack
 
